@@ -22,13 +22,13 @@ To run this game, you need Python installed on your system along with the **Tkin
 1. **Clone the repository** or **download the files**.
 
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/arshnoork-101/TicTacToe.git
     ```
 
 2. **Navigate to the project directory**.
 
     ```bash
-    cd tic-tac-toe
+    cd TictacToe
     ```
 
 3. **Run the Python file**.
