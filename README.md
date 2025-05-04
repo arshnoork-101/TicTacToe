@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game (with Timer)
+# Tic-Tac-Toe Game 
 
 A simple and interactive **Tic-Tac-Toe** game built using **Python** and the **Tkinter** library. This project features a timer for each player, a clear visual representation of the game board, and automatic checks for a winner or tie. The game also prompts players to start a new game after a win, tie, or when the time runs out.
 
