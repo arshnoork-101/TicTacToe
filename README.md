@@ -1,5 +1,12 @@
 # Tic-Tac-Toe Game 
 
+<div align="center">
+
+![Screenshot](https://res.cloudinary.com/da9gwrtit/image/upload/v1756056527/Screenshot_2025-08-24_132822_n0faks.png)
+
+*My project screenshot*
+</div>
+
 A simple and interactive **Tic-Tac-Toe** game built using **Python** and the **Tkinter** library. This project features a timer for each player, a clear visual representation of the game board, and automatic checks for a winner or tie. The game also prompts players to start a new game after a win, tie, or when the time runs out.
 
 ## Features
